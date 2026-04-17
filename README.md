@@ -1,5 +1,5 @@
 # 🧭 Noisy Multi-Label Learning through Co-Occurrence-Aware Diffusion  
-### 📄 [[NeurIPS Paper]](https://openreview.net/forum?id=zft0zTOFkN)
+### 📄 [[NeurIPS 2025 Paper]](https://openreview.net/forum?id=zft0zTOFkN)
 
 ---
 
